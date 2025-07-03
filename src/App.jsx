@@ -1,5 +1,5 @@
-import MainContent from './components/MainContent';
-import logo from './assets/images/logo.png';
+import MainContent from "./components/MainContent";
+import logo from "./assets/images/logo.png";
 
 function App() {
   return (
@@ -14,5 +14,8 @@ function App() {
     </>
   );
 }
+
+// this is some comment
+// this is another comment
 
 export default App;
