@@ -16,5 +16,6 @@ function App() {
 }
 
 // this is some comment
+// this is another comment
 
 export default App;
